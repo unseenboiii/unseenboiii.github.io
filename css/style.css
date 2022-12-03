@@ -1,0 +1,37 @@
+.parent {
+    position: relative;
+    height: 450px;
+}
+
+.img {
+    height: 450px;
+}
+
+.img:hover {
+    opacity: 80%;
+}
+
+.top-left {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.top-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.bottom-left {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.bottom-right {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
